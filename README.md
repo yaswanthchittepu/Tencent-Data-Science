@@ -5,6 +5,10 @@ Code Containing the Models
 
 Numpy, Scikit-learn, LightGBM, Pandas, Matplotlib
 
+### Important
+
+The csv file should be in the directory, from which your jupyter notebooks/py scripts are
+
 The Code is Contained in the Jupyter notebooks, that also contain the results and a description of theApproach taken. The Contents of the three Jupyter notebooks are as follows:
 
 1) Tencent_AnomalyDetection: Contains the code for the Unsupervised Anomaly Detection approaches taken to detect anomalous data
